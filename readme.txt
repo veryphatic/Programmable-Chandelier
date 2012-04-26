@@ -2,7 +2,7 @@ Chandlier notes:
 
 To work out the resistor values for your chandelier use the LED calculator here -> http://www.hobby-hour.com/electronics/ledcalc.php. The LEDs are arranged in parallel.
 
-Use these values for your different colour lights:
+Use these values for your different colour lights, with the input voltage set to 12V.
 
 LED colour	mA	V (min)	V (typical)	
 
